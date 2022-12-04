@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>html tags</title>
+<style>
+body {
+background-color:rgb(200,80,40);
+}
+#a {
+text-align:center;
+background-color: skyblue;
+}
+</style>
+</head>
+<body>
+<div id="a"><h1>This is <abbr title="Hypertext Markup Language">Html</abbr> Page</h1></div>
+<embed type="video/webm" src="mixkit-people-pouring-a-warm-drink-around-a-campfire-513-medium.mp4" width="400" height="300">
+</body>
+</html>
